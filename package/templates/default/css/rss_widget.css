@@ -1,0 +1,22 @@
+.rss_widget .item .image {
+    width: 31%;
+}
+.rss_widget .item .image img {
+    width: 100%;
+}
+.rss_widget .item .target_icon_img {
+    float: left;
+    margin: 1px 5px 0 0;
+}
+.rss_widget .item h3 {
+    margin: 0 0 5px;
+}
+.rss_widget.widget_content_list.featured .item-first .title h3 {
+    font-size: inherit;
+}
+.rss_widget.widget_content_list .details {
+    margin: 1px 0 0 0;
+}
+.rss_widget.widget_content_list .item {
+    margin-bottom: 15px;
+}
